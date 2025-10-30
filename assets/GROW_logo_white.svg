@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 480" width="1400" height="480" role="img" aria-label="GROW thin modern wordmark">
+  <defs>
+    <style><![CDATA[
+      text {
+        font-family: 'Inter', 'Manrope', 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        font-weight: 300;
+        letter-spacing: 4px;
+      }
+    ]]></style>
+  </defs>
+  <text x="50%" y="62%" text-anchor="middle" font-size="260" fill="#FFFFFF">GROW</text>
+</svg>
